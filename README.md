@@ -10,6 +10,9 @@ Information Technology Project Management (ITPM) course project
 ## Gantt Chart 
 <img width="600" alt="Screen Shot 2021-06-15 at 8 24 01 AM" src="https://user-images.githubusercontent.com/35253872/121991456-ed102e00-cdb4-11eb-8d86-6da0c244ec63.png">
 
+## Milestones
+<img width="600" alt="Screen Shot 2021-06-15 at 8 24 01 AM" src="https://user-images.githubusercontent.com/35253872/121991678-6b6cd000-cdb5-11eb-8c96-cd6cb33c9eb0.png">
+                                                                 
 ## Support
 Reach out to us at:
 * boroomand.bahar@yahoo.co.uk
